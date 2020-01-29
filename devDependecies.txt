@@ -1,0 +1,5 @@
+ npm install --save-dev autoprefixer babel-core babel-loader babel-preset-env babel-register browser-sync gulp gulp-babel gulp-cssnano gulp-newer gulp-postcss gulp-purgecss gulp-rename gulp-sass gulp-stylelint node-sass postcss postcss-css-variables prettier prettier-stylelint pump stylelint stylelint-config-prettier stylelint-config-rational-order stylelint-config-sass-guidelines stylelint-config-standard stylelint-order stylelint-prettier stylelint-scss svgo webpack
+ 
+ 
+ 
+npm install postcss
